@@ -3,7 +3,7 @@ this is an assignment to create a newsletter using HTML, CSS and JavaScript
 
 ## 
 # Image
-![welcome interface.](asset/images/emailnewslellet.PNG) "This is the newsletter outlook")
+![welcome interface.](asset/images/emailnewsleller.PNG) "This is the newsletter outlook")
 
 # Built With
 * HTML
