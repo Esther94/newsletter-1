@@ -3,7 +3,7 @@ this is an assignment to create a newsletter using HTML, CSS and JavaScript
 
 ## 
 # Image
-![welcome interface.](asset/images/emailnewsleller.PNG) "This is the newsletter outlook")
+![welcome interface.](asset/images/emailnewsletter.PNG) "This is the newsletter outlook")
 
 # Built With
 * HTML
@@ -28,7 +28,7 @@ JavaScript
 * https://twitter.com/hub_mic
 * https://www.linkedin.com/company/michub/
 
-# Live Demo ()
+# Live Demo (https://raw.githack.com/Esther94/newsletter-1/main/indexx.html)
 
 # 🤝 Contributions
 * This project is open to your comments and contributions.
