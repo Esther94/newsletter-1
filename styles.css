@@ -1,0 +1,64 @@
+.star {
+    max-width:800px ;
+    width: 70%;
+    margin: 0 auto;  
+    background-color: skyblue ; 
+    padding-bottom: 3rem;
+    color: white;
+    border-radius: 18px;
+}
+
+.pad {
+    padding: 1rem 2.6667rem 0 2.66667rem;
+}
+.newsleta {
+    font-size: 3.75rem;
+    font-family: 'Mija';
+    text-decoration: underline;
+    margin: 1.2rem;
+}
+
+.newsleta-text {
+font-size: 1.75rem;
+font-family: 'Elena';
+}
+
+.newsleta-info {
+    margin: 2.4167rem 0;
+    line-height: 1.5;
+}
+
+.form-ev {
+    display: grid;
+    grid-template-columns: 65% 35%;
+    border-radius: 15px;
+    padding-bottom: 1rem;
+}
+
+.form-ev .form-name[placeholder="Your email"]{
+    padding: 1.5rem 2rem;
+}
+
+.form-name {
+    border-top-left-radius: 8px;
+    border-bottom: 8px;
+}
+
+.form-ev .ev-but {
+background-color: #0168B8;
+color: #fff;
+border-bottom-left-radius: 8px;
+border-bottom-right-radius: 8px;
+font-size: 20px;
+}
+
+.sub {
+    font-family: "Elena";
+    font-size: 1.5rem;
+    width: 56%;
+    margin: 0 auto;
+    text-align: center;
+    padding: 1.1rem 1.5rem;
+    background-color: #0586BD;
+    border-radius: 10px;
+}
