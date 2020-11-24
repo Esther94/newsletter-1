@@ -45,11 +45,11 @@ font-family: 'Elena';
 }
 
 .form-ev .ev-but {
-background-color: #0168B8;
-color: #fff;
-border-bottom-left-radius: 8px;
-border-bottom-right-radius: 8px;
-font-size: 20px;
+    background-color: #0168B8;
+    color: #fff;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    font-size: 20px;
 }
 
 .sub {
